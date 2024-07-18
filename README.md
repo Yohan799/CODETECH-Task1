@@ -4,7 +4,8 @@ Company:CODTECH IT SOLUTIONS
 
 ID:CT4ML4250
 
-Task-1:sentimental analysis on movie reviews
+Task-1: Sentimental analysis on movie reviews
+Task-2: Text to speech
 
 Domain:Machine Learning
 
