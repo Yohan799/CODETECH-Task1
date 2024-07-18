@@ -8,6 +8,8 @@ Domain:Machine Learning
 
 Duration:July-August 2024
 
+Outputs of the Tasks
+
 Task-1: Sentimental analysis on movie reviews
 
 ![Screenshot 2024-07-14 205903](https://github.com/user-attachments/assets/cf96eae9-6ad0-4f2e-af59-d91e4730f877)
