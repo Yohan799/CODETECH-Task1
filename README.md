@@ -4,6 +4,8 @@ Company:CODTECH IT SOLUTIONS
 
 ID:CT4ML4250
 
+Task-1:sentimental analysis on movie reviews
+
 Domain:Machine Learning
 
 Duration:July-August 2024
